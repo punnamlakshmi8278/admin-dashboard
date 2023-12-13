@@ -610,6 +610,10 @@ export const links = [
         name: "area",
         icon: <AiOutlineAreaChart />,
       },
+      {
+        name: "vasu ",
+        icon: <AiOutlineAreaChart />,
+      },
 
       {
         name: "bar",
